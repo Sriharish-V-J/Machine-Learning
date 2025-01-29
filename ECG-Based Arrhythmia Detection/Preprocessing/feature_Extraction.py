@@ -7,7 +7,7 @@ import re
 
 # Define the base dataset path
 base_path = 'D:\\Machine learning project\\ptb-diagnostic-ecg-database-1.0.0'  # Replace with your dataset path
-output_path = 'D:\Machine learning project\ecg_final.csv'  # Output file
+output_path = './ECG_Unprocessed.csv'  # Output file
 
 # Create an empty DataFrame for storing features
 features_df = pd.DataFrame()
